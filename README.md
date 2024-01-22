@@ -5,19 +5,13 @@
  <img width=800 src="https://64.media.tumblr.com/b96fdae6bfec199b697fbf0b6ae9f08f/tumblr_othmdrpkFc1r6ja9oo1_500.gif"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/KalleHahl/KalleHahl">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800"/>
 </a>
 
-<p align="center">
-  <a href="https://github.com/KalleHahl/KalleHahl" style="display: flex; align-items: center; justify-content: space-around;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800" />
-  </a>
-</p>
 
 
 
