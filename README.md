@@ -5,12 +5,14 @@
  <img width=800 src="https://64.media.tumblr.com/b96fdae6bfec199b697fbf0b6ae9f08f/tumblr_othmdrpkFc1r6ja9oo1_500.gif"/>
 </p>
 
-<a href="https://github.com/KalleHahl/KalleHahl">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&theme=shadow_red"/>
-</a>
-<a href="https://github.com/KalleHahl/KalleHahl">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=320&langs_count=8"/>
-</a>
+<p align="center">
+  <a href="https://github.com/KalleHahl/KalleHahl">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&theme=shadow_red"/>
+ </a>
+ <a href="https://github.com/KalleHahl/KalleHahl">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=320&langs_count=8"/>
+ </a>
+</p>
 
 
 
