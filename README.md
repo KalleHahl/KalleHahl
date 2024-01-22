@@ -5,14 +5,14 @@
  <img width=800 src="https://64.media.tumblr.com/b96fdae6bfec199b697fbf0b6ae9f08f/tumblr_othmdrpkFc1r6ja9oo1_500.gif"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KalleHahl/KalleHahl">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green" />
-  </a>
-  <a  href="https://github.com/KalleHahl/KalleHahl">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800" />
-  </a>
-</p>
+
+ <a href="https://github.com/KalleHahl/KalleHahl">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green" />
+ </a>
+ <a  href="https://github.com/KalleHahl/KalleHahl">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800" />
+ </a>
+
 
 
 <!---[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jallukallu123&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
