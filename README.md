@@ -6,12 +6,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/KalleHahl/KalleHahl">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green" />
-    </a>
-    <a href="https://github.com/KalleHahl/KalleHahl">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800" />
-    </a>
+  <a href="https://github.com/KalleHahl/KalleHahl" style="display: flex; align-items: center; justify-content: space-around;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&show_icons=true&theme=blue-green" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=blue-green&layout=compact&height=800" />
+  </a>
 </p>
 
 
