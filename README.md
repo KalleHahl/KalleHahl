@@ -12,7 +12,7 @@
  </a>
 
  <a href="https://github.com/KalleHahl/KalleHahl">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red">
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red&card_width=320">
  </a>
 </p>
 
