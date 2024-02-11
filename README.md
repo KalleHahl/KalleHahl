@@ -29,12 +29,12 @@ hobbies: ["Movies", "Music", "Running"]
 ```
 <p align="center">
   <a href="https://github.com/KalleHahl/KalleHahl">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=450&langs_count=8"/>
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=320&langs_count=8"/>
 
  </a>
 
  <a href="https://github.com/KalleHahl/KalleHahl">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red&card_width=450">
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red&card_width=320">
  </a>
 </p>
 
