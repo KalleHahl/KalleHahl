@@ -31,6 +31,8 @@ hobbies: ["Movies", "Music", "Running"]
  <summary>Details</summary>
 <h2>Tools I've used</h2>
 <br> 
+ <br>
+ 
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -46,7 +48,10 @@ hobbies: ["Movies", "Music", "Running"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45"/>          
 </p>
+<br>
 <h2>Stats</h2>
+ <br>
+ <br>
  <p align="center">
   <a href="https://github.com/KalleHahl/KalleHahl">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=320&langs_count=8"/>
