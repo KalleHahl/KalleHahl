@@ -5,14 +5,36 @@
  <img width=600 src="https://64.media.tumblr.com/b96fdae6bfec199b697fbf0b6ae9f08f/tumblr_othmdrpkFc1r6ja9oo1_500.gif"/>
 </p>
 -->
+```yaml
+name: Kalle Hahl
+location: Helsinki, Finland
+education:
+  [
+    "University of Helsinki"
+  ]
+fields_of_interests:
+  [
+    "Web development",
+    "UI",
+    "Algorithms",
+    "Problem solving"
+  ]
+currently_learning:
+  [
+    "Next.js",
+    "Tailwind CSS",
+    "Docker"
+  ]
+hobbies: ["Movies", "Music", "Running"]
+```
 <p align="center">
   <a href="https://github.com/KalleHahl/KalleHahl">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=320&langs_count=8"/>
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalleHahl&theme=shadow_red&layout=compact&card_width=450&langs_count=8"/>
 
  </a>
 
  <a href="https://github.com/KalleHahl/KalleHahl">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red&card_width=320">
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalleHahl&theme=shadow_red&card_width=450">
  </a>
 </p>
 
