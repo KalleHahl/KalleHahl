@@ -21,9 +21,8 @@ fields_of_interest:
   ]
 currently_learning:
   [
-    "Next.js",
-    "Tailwind CSS",
-    "Docker"
+    "Docker",
+    "C++"
   ]
 hobbies: ["Movies", "Music", "Running"]
 ```
