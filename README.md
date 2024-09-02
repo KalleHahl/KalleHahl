@@ -1,10 +1,10 @@
 
 ![Welcome to my GitHub (2)](https://github.com/KalleHahl/KalleHahl/assets/101662318/9e82708f-d44f-4992-88b8-bd33fa2c3540)
-<!--
+
 <p align="center">
  <img width=600 src="https://64.media.tumblr.com/b96fdae6bfec199b697fbf0b6ae9f08f/tumblr_othmdrpkFc1r6ja9oo1_500.gif"/>
 </p>
--->
+
 ```yaml
 name: Kalle Hahl
 location: Helsinki, Finland
