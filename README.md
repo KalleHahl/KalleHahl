@@ -8,6 +8,11 @@
 ```yaml
 name: Kalle Hahl
 location: Helsinki, Finland
+experience:
+  current:
+    - company: "Mobile Wellness Solutions MWS Oy"
+    - position: "Software developer"
+    - duration: "2024-05-01 - present"
 education:
   [
     "University of Helsinki"
@@ -18,11 +23,6 @@ fields_of_interest:
     "UI",
     "Algorithms",
     "Problem solving"
-  ]
-currently_learning:
-  [
-    "Docker",
-    "C++"
   ]
 hobbies: ["Movies", "Music", "Running"]
 ```
