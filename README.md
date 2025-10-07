@@ -8,23 +8,32 @@
 ```yaml
 name: Kalle Hahl
 location: Helsinki, Finland
+
 experience:
   current:
-    - company: "Mobile Wellness Solutions MWS Oy"
-    - position: "Software developer"
-    - duration: "2024-05-01 - present"
+    - company: Mobile Wellness Solutions MWS Oy
+      position: Software Developer
+      duration: 2024-05-01 – present
+
 education:
-  [
-    "University of Helsinki"
-  ]
+  - institution: University of Helsinki
+    degree: B.Sc. in Computer Science
+    period: 2021–2024
+    status: completed
+  - institution: University of Helsinki
+    program: M.Sc. in Data Science
+    period: 2024–present
+    status: in progress
+
 fields_of_interest:
-  [
-    "Web development",
-    "UI",
-    "Algorithms",
-    "Problem solving"
-  ]
-hobbies: ["Movies", "Music", "Running"]
+  - Web development
+  - UI
+  - Algorithms
+  - Problem solving
+
+hobbies:
+  - Movies
+  - Music
 ```
 <details>
  <summary>Details</summary>
@@ -73,5 +82,5 @@ hobbies: ["Movies", "Music", "Running"]
 
 
 
-<!---   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&theme=shadow_red"/>--->
-<!---[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jallukallu123&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KalleHahl&theme=shadow_red"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jallukallu123&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
