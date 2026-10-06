@@ -17,7 +17,7 @@ experience:
 
 education:
   - institution: Aalto University
-    program: M.Sc. in Information and Service Management'
+    program: M.Sc. in Information and Service Management
     period: 2026-present
     status: in progress
   - institution: University of Helsinki
