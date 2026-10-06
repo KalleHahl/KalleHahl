@@ -16,14 +16,18 @@ experience:
       duration: 2024-05-01 – present
 
 education:
+  - institution: Aalto University
+    program: M.Sc. in Information and Service Management'
+    period: 2026-present
+    status: in progress
+  - institution: University of Helsinki
+    program: M.Sc. in Data Science
+    period: 2024–2026
+    status: completed
   - institution: University of Helsinki
     degree: B.Sc. in Computer Science
     period: 2021–2024
     status: completed
-  - institution: University of Helsinki
-    program: M.Sc. in Data Science
-    period: 2024–present
-    status: in progress
 
 fields_of_interest:
   - Web development
