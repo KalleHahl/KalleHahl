@@ -18,12 +18,9 @@ experience:
 education:
   - institution: Aalto University
     program: M.Sc. in Information and Service Management
+    minor: Data Science (University of Helsinki)
     period: 2026-present
     status: in progress
-  - institution: University of Helsinki
-    program: M.Sc. in Data Science
-    period: 2024–2026
-    status: completed
   - institution: University of Helsinki
     degree: B.Sc. in Computer Science
     period: 2021–2024
